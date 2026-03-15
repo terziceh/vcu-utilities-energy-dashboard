@@ -14,6 +14,19 @@ The goal was to transform raw utility billing data into an interactive dashboard
 The final result is a **Tableau dashboard supported by SQL data modeling and Python preprocessing**.
 
 ---
+
+## Dashboard Demo
+
+The following recordings demonstrate the functionality of the energy analytics dashboards.
+
+### Excel Executive Dashboard
+
+![Excel Dashboard](dashboards/screenshots/Excel%20Dashboard.gif)
+
+### Tableau Analytics Dashboard
+
+![Tableau Dashboard](dashboards/screenshots/Tableau%20Dashboard.gif)
+
 ## Project Architecture
 
 The dashboard is supported by a full analytics workflow that transforms raw utility billing data into a structured dataset used for analysis and visualization.
