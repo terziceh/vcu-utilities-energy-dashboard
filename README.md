@@ -37,7 +37,8 @@ flowchart TD
     B --> C[SQL Server<br>Staging Tables]
     C --> D[SQL Transformations<br>Aggregations & Views]
     D --> E[Feature Engineering<br>Cost per kWh, Fiscal Year Metrics]
-    E --> F[Tableau Dashboard]
+    E --> F[Excel Dashboard]
+    F --> G[Tableau Dashboard]
 ```
 
 ## Tools & Technologies
