@@ -14,22 +14,18 @@ The goal was to transform raw utility billing data into an interactive dashboard
 The final result is a **Tableau dashboard supported by SQL data modeling and Python preprocessing**.
 
 ---
-
 ## Project Architecture
 
-The analytics pipeline follows a typical business intelligence workflow:
+The dashboard is supported by a full analytics workflow that transforms raw utility billing data into a structured dataset used for analysis and visualization.
 
-Raw Utility Billing Data  
-↓  
-Data Cleaning & Transformation (Python / Excel)  
-↓  
-SQL Server Data Modeling  
-↓  
-Feature Engineering  
-↓  
-Tableau Dashboard Visualization
-
----
+```mermaid
+flowchart TD
+    A[Raw Utility Billing Data<br>CSV / Excel] --> B[Data Cleaning<br>Python / Excel]
+    B --> C[SQL Server<br>Staging Tables]
+    C --> D[SQL Transformations<br>Aggregations & Views]
+    D --> E[Feature Engineering<br>Cost per kWh, Fiscal Year Metrics]
+    E --> F[Tableau Dashboard]
+```
 
 ## Tools & Technologies
 
