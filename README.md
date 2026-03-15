@@ -141,23 +141,6 @@ These filters allow stakeholders to quickly analyze electricity spending pattern
 
 ---
 
-## Dashboard Preview
-
-*(Screenshots or screen recordings will be added here)*
-
-Example visuals include:
-
-- Executive KPI overview  
-- Monthly energy cost trends  
-- Building-level consumption analysis  
-- Campus energy map  
-
-Example screenshot placeholder:
-
-![Dashboard Overview](dashboards/screenshots/dashboard_overview.png)
-
----
-
 ## Key Insights from the Dashboard
 
 The dashboard enables several useful operational insights, including:
