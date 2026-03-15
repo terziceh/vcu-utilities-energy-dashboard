@@ -1,0 +1,6 @@
+Provider,Type,Operator,Account,Customer_Type,Index,Bldg,Building_Name,Status,Campus,Address,Own_vs_Lease,Meter,Consumption,Amount_Due,Total_Usage,Reporting_Month,Svc_End_Date,UtiliTrak_Date,Svc_End_Date_Fixed,FY,Charge_Type,Bill_Type,Building_Key,Clean_Cost_per_kwh
+DVP,Electric,NONE,ACC1001,AUXILIARY,327510,B001,Residence_Hall_A,ACTIVE,Campus_A,100 University Ave,HOUSING,MTR1001,18080,1488.72,1488.72,10,2018-04-01,,2018-04-01,FY18,Energy,Non-Credit,B001 - Residence_Hall_A,0.08234
+DVP,Electric,NONE,ACC1002,AUXILIARY,327511,B002,Academic_Building_1,ACTIVE,Campus_A,200 University Ave,ACADEMIC,MTR1002,22140,1932.11,1932.11,10,2018-04-01,,2018-04-01,FY18,Energy,Non-Credit,B002 - Academic_Building_1,0.08723
+DVP,Electric,NONE,ACC1003,AUXILIARY,327512,B003,Lab_Facility_1,ACTIVE,Campus_A,300 University Ave,ACADEMIC,MTR1003,31500,2590.33,2590.33,10,2018-04-01,,2018-04-01,FY18,Energy,Non-Credit,B003 - Lab_Facility_1,0.08223
+DVP,Electric,NONE,ACC1004,AUXILIARY,327513,B004,Residence_Hall_B,ACTIVE,Campus_A,400 University Ave,HOUSING,MTR1004,15800,1290.17,1290.17,10,2018-04-01,,2018-04-01,FY18,Energy,Non-Credit,B004 - Residence_Hall_B,0.08166
+DVP,Electric,NONE,ACC1005,AUXILIARY,327514,B005,Student_Center,ACTIVE,Campus_A,500 University Ave,ACADEMIC,MTR1005,24560,2011.45,2011.45,10,2018-04-01,,2018-04-01,FY18,Energy,Non-Credit,B005 - Student_Center,0.08191
